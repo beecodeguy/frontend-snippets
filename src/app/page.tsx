@@ -8,7 +8,7 @@ export default function Home() {
   const [copied, setCopied] = useState("");
   const [text, setText] = useState("");
 
-  const handleInputChange = e => {
+  const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { value } = e.target;
     setText(value);
   };
