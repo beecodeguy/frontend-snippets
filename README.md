@@ -1,5 +1,11 @@
 ## Getting Started
 
+Here are the list of Branch that you can switch to check the different snippets or features
+
+### Branches for Snippets
+
+- CopyToClipboard ---> `build/copy-to-clipboard-starter`
+
 # Introduction
 
 Starter file which have following installed:
